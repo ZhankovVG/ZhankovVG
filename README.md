@@ -15,5 +15,6 @@
 
 ### Как связаться со мной :
 Номер.тел. : 098 336 09 07 <br>
-Email : <a href="tpenep777@gmail.com">asd</a>
+Email : <a href="
+sprinter-100m@ukr.net">asd</a>
 <hr>
