@@ -15,4 +15,5 @@
 
 ### Как связаться со мной :
 Номер.тел. : 098 336 09 07 <br>
-Email : <a href="tpenep777@gmail.com"><img src="https://camo.githubusercontent.com/a8c761056c822bf3e282450650e6c75bec1fb22acff08241e477faf8572b4b7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d7265643f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+Email : <a src="tpenep777@gmail.com"><img src="https://camo.githubusercontent.com/a8c761056c822bf3e282450650e6c75bec1fb22acff08241e477faf8572b4b7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d7265643f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+
