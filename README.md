@@ -18,3 +18,9 @@
 Email : <a href="
 sprinter-100m@ukr.net">asd</a>
 <hr>
+
+### Социальные сети :
+<hr>
+
+### Изучаемые стек технологии :
+<img height="50" src="https://avatars0.githubusercontent.com/u/1525981?s=200&amp;v=4" style="max-width: 100%;"> <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;"> 
