@@ -23,7 +23,7 @@ sprinter-100m@ukr.net">asd</a>
 
 <a href=”tel:+380983360907></a>
 
-[sprinter-100m@ukr.net](sprinter-100m@ukr.net)
+[sprinter-100m@ukr.net](http://sprinter-100m@ukr.net)
 
 <hr>
 <button>
