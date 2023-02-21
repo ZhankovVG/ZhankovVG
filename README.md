@@ -16,20 +16,16 @@
 
 ### Как связаться со мной :
 Номер.тел. : 098 336 09 07 <br>
-[<a href=”tel:+380983360907>098 336 09 07</a>]
-Email : <a href="
-sprinter-100m@ukr.net">asd</a>
+
 - 📫 How to reach me: (+380983360907)
 
 <a href=”tel:+380983360907></a>
 
 Email :  [sprinter-100m@ukr.net](http://sprinter-100m@ukr.net)<br>
 Gmail : [tpenep777@gmail.com](http://tpenep777@gmail.com)
+[+380983360907](http://+380983360907)
 
 <hr>
-<button>
-<a href=”tel:+380441111111”>+Позвоните нам</a>
-</button>
 
 ### Изучаемые стек технологии :
 <img title="Django" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" style="max-width: 100%;"> <img title="Python" height="55" src="https://avatars0.githubusercontent.com/u/1525981?s=200&amp;v=4" style="max-width: 100%;">
