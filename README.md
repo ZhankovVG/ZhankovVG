@@ -20,6 +20,7 @@ sprinter-100m@ukr.net">asd</a>
 <hr>
 
 ### Социальные сети :
+<img src="https://camo.githubusercontent.com/6acccefe72a9ad3380c0802e7a78988adad9d186eefff43b715bd7d7d07dc52a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f66616365626f6f6b2e706e67" alt="facebook" data-canonical-src="https://img.icons8.com/color/96/000000/facebook.png" style="max-width: 100%;">
 <hr>
 
 ### Изучаемые стек технологии :
