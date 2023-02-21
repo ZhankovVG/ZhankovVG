@@ -20,8 +20,9 @@ sprinter-100m@ukr.net">asd</a>
 <hr>
 
 ### Социальные сети :
-<img src="https://camo.githubusercontent.com/6acccefe72a9ad3380c0802e7a78988adad9d186eefff43b715bd7d7d07dc52a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f66616365626f6f6b2e706e67" alt="facebook" data-canonical-src="https://img.icons8.com/color/96/000000/facebook.png" style="max-width: 100%;">
-<hr>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100025923456368)  
+
+<p align="left"> <a href="https://www.facebook.com/httpprofile.php?id=100025923456368" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney /readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a></p>
 
 ### Изучаемые стек технологии :
 <img title="Django" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" style="max-width: 100%;"> <img title="Python" height="55" src="https://avatars0.githubusercontent.com/u/1525981?s=200&amp;v=4" style="max-width: 100%;">
@@ -33,3 +34,23 @@ sprinter-100m@ukr.net">asd</a>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhankovVG&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Навыки
+
+
+<p align="left">
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+</p>
+
+
+### Социальные сети
+
+<p align="left"> <a href="https://www.facebook.com/httpprofile.php?id=100025923456368" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney /readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a></p>
+
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> </p>
+
+
+### Социальные сети
+
+<p align="left"> <a href="https://www.facebook.com/httpprofile.php?id=100025923456368" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney /readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a></p>
