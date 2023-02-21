@@ -47,3 +47,6 @@ sprinter-100m@ukr.net">asd</a>
 ### Социальные сети
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC5wo3B7nxMAzMII8EtLDQLQ)  
+
+[<img src="https://camo.githubusercontent.com/aec347ccecfb57c504334b6723d26a419c1e7a871d467603d0a301272d5ac329/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f796f75747562652e706e67" alt="youtube" data-canonical-src="https://img.icons8.com/color/96/000000/youtube.png" style="max-width: 100%;">](https://www.youtube.com/channel/https://www.youtube.com/channel/UC5wo3B7nxMAzMII8EtLDQLQ) 
+
