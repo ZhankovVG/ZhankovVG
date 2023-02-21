@@ -23,7 +23,7 @@
 Email :  [sprinter-100m@ukr.net](http://sprinter-100m@ukr.net)<br>
 Gmail : [tpenep777@gmail.com](http://tpenep777@gmail.com)
 
-[+380983360907](<http://tel:+380983360907>)
+[+380983360907](<http://+380983360907>)
 
 <hr>
 
