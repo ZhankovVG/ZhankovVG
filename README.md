@@ -46,14 +46,4 @@ sprinter-100m@ukr.net">asd</a>
 
 ### Социальные сети
 
-<p align="left"> <a href="https://www.facebook.com/httpprofile.php?id=100025923456368" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney /readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a></p>
-
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> </p>
-
-
-### Социальные сети
-
-
-### Социальные сети
-
-<p align="left"> <a href="https://www.facebook.com/httpprofile.php?id=100025923456368" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney /readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/cUC5wo3B7nxMAzMII8EtLDQLQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator /main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC5wo3B7nxMAzMII8EtLDQLQ)  
