@@ -30,3 +30,7 @@ sprinter-100m@ukr.net">asd</a>
 
 <hr>
 <img align="center" src="https://camo.githubusercontent.com/b63d84b2a077665c3b53dbc4c036e321994260a96a668612123dfb333ee71788/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d546572616279746531372673686f775f69636f6e733d74727565267468656d653d7261646963616c" data-canonical-src="https://github-readme-stats.vercel.app/api?ZhankovVG&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiZhankovVGanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhankovVG)](https://github.com/anuraghazra/github-readme-stats)
+фывфыв
