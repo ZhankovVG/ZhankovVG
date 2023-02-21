@@ -53,6 +53,7 @@ sprinter-100m@ukr.net">asd</a>
 
 ### Социальные сети
 
-<p align="left"> <a href="https://www.facebook.com/httpprofile.php?id=100025923456368" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney /readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a></p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100025923456368)  
+### Социальные сети
+
+<p align="left"> <a href="https://www.facebook.com/httpprofile.php?id=100025923456368" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney /readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/cUC5wo3B7nxMAzMII8EtLDQLQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator /main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
