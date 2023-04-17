@@ -1,23 +1,23 @@
 
 ![This is an image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png)
 
-##  Всем привет, меня зовут Виталий! 👋
+##  Hello everyone, my name is Vitaly.! 👋
 
 <hr>
 
-### Обо мне : <br>
-Я начинающий python backend developer самостоятельно изучаю язык програмирования, интересна отрасль по веб разработке. В моём арсенале не так много написано сайтов на данный момент, но я говот это исправить! Так как я обучался самостоятельно мой путь был проделан через прочтение книг( Джейсон Бриггс «Python для детей: самоучитель по программированию», Марк Лутц «Изучаем Python» ), решение задач на разных сайтах, прошел обучение в приложениях ( Sololearn, Mimo, Pythono ), так же много информации из видео уроков на Ютубе, прошел не большой 7 дневный бесплатный курс ( GoIT – ШКОЛА ІТ-ПРОФЕСИЙ ). Обучение всегда проходил и прохожу комплексно : изучение материала, конспектирование, проработка в Visual Studio Code ( если нахождение было не дома то в телефоне в приложении Coding Python ).
+### About me : <br>
+I am a beginner back-end developer in Python, self-learning a programming language, I am interested in the web development industry. I don't have many sites written in my arsenal at the moment, but I'm ready to fix it! Since I was self-taught, my journey was made through reading books (Jason Briggs "Python for Kids: A Tutorial for Programming", Mark Lutz "Learning Python"), solving problems on different sites, was trained in applications (Sololearn, Mimo, Pythono), as well as a lot of information from video lessons on YouTube, took a short 7-day free course (GoIT - SCHOOL OF IT PROFESSIONS). Training has always been and is going through in a complex way: studying the material, taking notes, working out in Visual Studio Code (if it was not at home, then on the phone in the Coding Python application).
 <hr>
 
-### Сильные профессиональные стороны: отношение к работе :
-- Трудолюбие
-- Организованность
-- Ответственность
-- Усидчивость
-- Обучаемость
+### Strong professional aspects attitude to work :
+- Industriousness
+- Organization
+- Responsibility
+- Perseverance
+- Learnability
 <hr>
 
-### Изучаемые стек технологии :
+### Studied technology stack :
 <img title="Django" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" style="max-width: 100%;"> <img title="Python" height="45" src="https://avatars0.githubusercontent.com/u/1525981?s=200&amp;v=4" style="max-width: 100%;">
 <img title="HTML5" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;"> 
 <img alt="CSS 3" title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="50" style="max-width: 100%;">
@@ -29,13 +29,13 @@
 
 <hr>
 
-### Социальные сети :
+### Social media :
 [<img src="https://camo.githubusercontent.com/6acccefe72a9ad3380c0802e7a78988adad9d186eefff43b715bd7d7d07dc52a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f66616365626f6f6b2e706e67" alt="facebook" data-canonical-src="https://img.icons8.com/color/96/000000/facebook.png" style="max-width: 100%;">](https://www.facebook.com/profile.php?id=100025923456368)[<img src="https://camo.githubusercontent.com/13b4ab64e1a639ef039c1688b03c7a1a0aaa875a1858fa56888aa09c492aac6a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f696e7374616772616d2d6e65772e706e67" alt="instagram" data-canonical-src="https://img.icons8.com/color/96/000000/instagram-new.png" style="max-width: 100%;">](https://www.instagram.com/trenirovannyi/) [<img src="https://camo.githubusercontent.com/aec347ccecfb57c504334b6723d26a419c1e7a871d467603d0a301272d5ac329/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f796f75747562652e706e67" alt="youtube" data-canonical-src="https://img.icons8.com/color/96/000000/youtube.png" style="max-width: 100%;">](https://www.youtube.com/channel/https://www.youtube.com/channel/UC5wo3B7nxMAzMII8EtLDQLQ)
 
 <hr>
 
-### Как связаться со мной :
+### How to contact me :
 
 Email :  [sprinter-100m@ukr.net](http://sprinter-100m@ukr.net)<br>
 Gmail : [tpenep777@gmail.com](http://tpenep777@gmail.com)<br>
-Номер.тел. : <a href="+38098-336-09-07"> +38098-336-09-07</a>
+Phone no. : <a href="+38098-336-09-07"> +38098-336-09-07</a>
