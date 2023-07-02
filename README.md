@@ -39,5 +39,5 @@ I am a beginner back-end developer in Python, self-learning a programming langua
 ### How to contact me :
 
 Email :  [sprinter-100m@ukr.net](http://sprinter-100m@ukr.net)<br>
-Gmail : [tpenep777@gmail.com](http://tpenep777@gmail.com)<br>
+Gmail : [python.developer.v@gmail.com](http://python.developer.v@gmail.com)<br>
 Phone no. : <a href="+38098-336-09-07"> +38098-336-09-07</a>
