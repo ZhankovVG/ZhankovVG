@@ -1,7 +1,7 @@
 
 ![This is an image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png)
 
-##  Hello everyone, my name is Vitaly.! 👋
+##  Hello everyone, my name is Vitaly! 👋
 
 <hr>
 
